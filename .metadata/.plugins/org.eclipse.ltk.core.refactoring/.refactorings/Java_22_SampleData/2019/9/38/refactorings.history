@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;NameList&apos; in &apos;com.biz.files.service.NameServiceV1&apos; to &apos;nameList&apos;&#x0D;&#x0A;- Original project: &apos;Java_22_SampleData&apos;&#x0D;&#x0A;- Original element: &apos;com.biz.files.service.NameServiceV1.NameList&apos;&#x0D;&#x0A;- Renamed element: &apos;com.biz.files.service.NameServiceV1.nameList&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;NameList&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.biz.files.service{NameServiceV1.java[NameServiceV1^NameList" name="nameList" references="true" setter="false" stamp="1568958267769" textual="false" version="1.0"/>
+</session>

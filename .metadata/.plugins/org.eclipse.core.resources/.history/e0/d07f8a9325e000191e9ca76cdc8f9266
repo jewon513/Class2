@@ -1,0 +1,33 @@
+package com.biz.iolist.service;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
+
+public class iolistService {
+
+	List<String> proList;
+	
+	public void readProduct(String proFileName) throws Exception {
+		
+		proList = new ArrayList<String>();
+		FileReader fileReader = new FileReader(proFileName);
+		BufferedReader buffer = new BufferedReader(fileReader);
+		
+		String reader = new String();
+		while(true) {
+			reader = buffer.readLine();
+			if(reader==null) break;
+			
+			if(reader.length()<1) continue;
+			
+			proList.add(reader);
+		}
+		buffer.close();
+		fileReader.close();
+		
+		
+	}
+	
+}

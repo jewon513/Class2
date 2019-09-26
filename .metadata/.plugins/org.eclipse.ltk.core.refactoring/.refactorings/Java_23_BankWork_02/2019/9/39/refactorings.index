@@ -1,0 +1,9 @@
+1569283919366	Move compilation unit
+1569285862182	Rename type 'Bankinfo'
+1569289600187	Rename field 'remkar'
+1569289621113	Rename local variable 'remkar'
+1569289632029	Rename method 'setRemkar'
+1569290901637	Rename local variable 'intNum'
+1569291012104	Copy compilation unit
+1569304329157	Move compilation unit
+1569306238802	Rename local variable 'intInPut'

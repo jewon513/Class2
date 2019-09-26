@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.biz.grade.util.StudentIDX"/>
+<fullyQualifiedTypeName name="com.biz.grade.util.ScoreIDX"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="com.biz.grade.service.GradeServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.grade.service.ScoreServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.grade.service.StudentServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.grade.util.LineMake"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="com.biz.files.service.GradeServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.files.service.GradeService"/>
+<fullyQualifiedTypeName name="com.biz.files.service.NameServiceV1"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="com.biz.bank.domain.BankAccVO"/>
+<fullyQualifiedTypeName name="com.biz.bank.service.BankAccServiceV1"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.biz.bank.service.BankServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.bank.doamin.BankInfo"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+<fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+<fullyQualifiedTypeName name="com.biz.bank.util.BankInfo"/>
+<fullyQualifiedTypeName name="com.biz.bank.util.BankInfo.REMARK"/>
+<fullyQualifiedTypeName name="com.biz.method.service.CalcService"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.biz.method.service.MakeListService"/>
+<fullyQualifiedTypeName name="com.biz.method.service.ViewListService"/>
+</qualifiedTypeNameHistroy>

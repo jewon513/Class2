@@ -1,0 +1,9 @@
+package com.biz.method.service;
+
+public class ViewListService {
+
+	public void setListAll() {
+		System.out.println("나는 하는일이 없습니다.");
+	}
+	
+}

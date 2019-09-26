@@ -1,0 +1,22 @@
+package com.biz.method;
+
+import com.biz.method.service.CalcService;
+
+public class MethodEX_02 {
+
+	/*
+	 * 1.콘솔에 대한민국만세 문자열을 10번 출력
+	 */
+	
+	
+	public static void main(String[] args) {
+
+		CalcService cs = new CalcService();
+		
+		for (int i = 0; i < 10; i++) {
+			cs.addNum();
+		}
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.biz.method.service;
+
+public class CalcService {
+
+	public void addNum() {
+		System.out.println("대한민국만세");
+	}
+	
+}
