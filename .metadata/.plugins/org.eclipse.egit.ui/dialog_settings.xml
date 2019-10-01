@@ -8,6 +8,14 @@
 		<item value="jewon513 &lt;jewon513@gmail.com&gt;"/>
 		<item value="Jewon513 &lt;jewon513@gmail.com&gt;"/>
 	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/jewon513/BlackJack.git"/>
+	</list>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="499,500"/>
 		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>

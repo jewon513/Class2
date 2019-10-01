@@ -37,10 +37,13 @@
 <fullyQualifiedTypeName name="com.biz.iolist.service.iolistService"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="com.biz.word.service.WordListMakeService"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.biz.word.service.WordQuizService"/>
 <fullyQualifiedTypeName name="com.biz.word.service.WordQuizServiceV1"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
 <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.biz.list.service.ListMakeServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.list.service.ListRecServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.list.service.ListRecServiceV2"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
