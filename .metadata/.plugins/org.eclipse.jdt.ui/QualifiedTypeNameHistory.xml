@@ -45,5 +45,8 @@
 <fullyQualifiedTypeName name="com.biz.list.service.ListMakeServiceV1"/>
 <fullyQualifiedTypeName name="com.biz.list.service.ListRecServiceV1"/>
 <fullyQualifiedTypeName name="com.biz.list.service.ListRecServiceV2"/>
+<fullyQualifiedTypeName name="com.biz.pay.service.PaperMakeServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.pay.service.PaperWriterServiceV1"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.biz.pay.service.PrintService"/>
 </qualifiedTypeNameHistroy>
