@@ -39,14 +39,21 @@
 <fullyQualifiedTypeName name="com.biz.word.service.WordListMakeService"/>
 <fullyQualifiedTypeName name="com.biz.word.service.WordQuizService"/>
 <fullyQualifiedTypeName name="com.biz.word.service.WordQuizServiceV1"/>
-<fullyQualifiedTypeName name="java.util.Collections"/>
 <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="com.biz.list.service.ListMakeServiceV1"/>
 <fullyQualifiedTypeName name="com.biz.list.service.ListRecServiceV1"/>
 <fullyQualifiedTypeName name="com.biz.list.service.ListRecServiceV2"/>
-<fullyQualifiedTypeName name="com.biz.pay.service.PaperMakeServiceV1"/>
 <fullyQualifiedTypeName name="com.biz.pay.service.PaperWriterServiceV1"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.biz.pay.service.PrintService"/>
+<fullyQualifiedTypeName name="java.awt.print.Paper"/>
+<fullyQualifiedTypeName name="com.biz.pay.service.PaperPrintServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.pay.service.PayReadServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.pay.service.PaperMakeServiceV1"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.biz.jack.service.gameService"/>
+<fullyQualifiedTypeName name="com.biz.jack.service.PlayerServiceV1"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.biz.jack.utils.BlackJackUtils"/>
 </qualifiedTypeNameHistroy>

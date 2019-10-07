@@ -63,6 +63,7 @@ public class GameServiceV1 {
 				if(intM==2) return true;
 				else if(intM==3) return false;
 			}
+			
 			if(user.sumValue()>21) {
 				System.out.println("딜러 승리");
 			}
